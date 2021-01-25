@@ -4,8 +4,9 @@ export default function Home() {
   return (
     <div class="container-full-height">
       <Head>
-        <title>Create Next App</title>
+        <title>Salvador Pneus</title>
         <meta name="description" content="A Salvador Pneus atua no mercado de recauchutagem de pneus, também conhecido como recapagem de pneus. Portanto a Salvador é uma recapadora com foco na entrega e comprometimento na qualidade, sempre buscando a melhoria dos seus processos e os melhores preços. Tudo isso a fim de proporcionar a maior segurança e conforto possível para o nosso cliente." />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
